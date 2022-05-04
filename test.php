@@ -1,3 +1,3 @@
 <?php
 
-echo 'This is some fun with GIT';
+echo 'This is not that much fun with GIT';
